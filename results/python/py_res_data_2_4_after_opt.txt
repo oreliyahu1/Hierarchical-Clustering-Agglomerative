@@ -1,0 +1,11 @@
+Loading file
+Distance size: (10000, 10000)
+Completed
+--- 3.455665349960327 seconds ---
+Clustring
+Completed
+--- 2.0644798278808594 seconds ---
+My Clustring
+Completed
+--- 11.689787149429321 seconds ---
+--------------------------------------

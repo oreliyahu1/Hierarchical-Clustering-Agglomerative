@@ -1,0 +1,7 @@
+without code optimization
+vec matrix test:
+run time: 10278.2 [sec]
+
+mem matrix test:
+run time: 4080.65 [sec]
+

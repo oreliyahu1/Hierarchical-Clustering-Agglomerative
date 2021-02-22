@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="External_lib">
+      <UniqueIdentifier>{60664814-967f-4d1b-a0c0-87d090916bf6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Matrix">
+      <UniqueIdentifier>{e29722da-0fb7-4051-872c-efb15be3e3be}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="HierarchicalClusteringAgglomerative.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="VecMatrix.cpp">
+      <Filter>Matrix</Filter>
+    </ClCompile>
+    <ClCompile Include="MemMatrix.cpp">
+      <Filter>Matrix</Filter>
+    </ClCompile>
+    <ClCompile Include=".\Dependencies\alglib3_16_0\alglibinternal.cpp">
+      <Filter>External_lib</Filter>
+    </ClCompile>
+    <ClCompile Include=".\Dependencies\alglib3_16_0\alglibmisc.cpp">
+      <Filter>External_lib</Filter>
+    </ClCompile>
+    <ClCompile Include=".\Dependencies\alglib3_16_0\ap.cpp">
+      <Filter>External_lib</Filter>
+    </ClCompile>
+    <ClCompile Include=".\Dependencies\alglib3_16_0\dataanalysis.cpp">
+      <Filter>External_lib</Filter>
+    </ClCompile>
+    <ClCompile Include=".\Dependencies\alglib3_16_0\diffequations.cpp">
+      <Filter>External_lib</Filter>
+    </ClCompile>
+    <ClCompile Include=".\Dependencies\alglib3_16_0\fasttransforms.cpp">
+      <Filter>External_lib</Filter>
+    </ClCompile>
+    <ClCompile Include=".\Dependencies\alglib3_16_0\integration.cpp">
+      <Filter>External_lib</Filter>
+    </ClCompile>
+    <ClCompile Include=".\Dependencies\alglib3_16_0\interpolation.cpp">
+      <Filter>External_lib</Filter>
+    </ClCompile>
+    <ClCompile Include=".\Dependencies\alglib3_16_0\linalg.cpp">
+      <Filter>External_lib</Filter>
+    </ClCompile>
+    <ClCompile Include=".\Dependencies\alglib3_16_0\optimization.cpp">
+      <Filter>External_lib</Filter>
+    </ClCompile>
+    <ClCompile Include=".\Dependencies\alglib3_16_0\solvers.cpp">
+      <Filter>External_lib</Filter>
+    </ClCompile>
+    <ClCompile Include=".\Dependencies\alglib3_16_0\specialfunctions.cpp">
+      <Filter>External_lib</Filter>
+    </ClCompile>
+    <ClCompile Include=".\Dependencies\alglib3_16_0\statistics.cpp">
+      <Filter>External_lib</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="VecMatrix.h">
+      <Filter>Matrix</Filter>
+    </ClInclude>
+    <ClInclude Include="MemMatrix.h">
+      <Filter>Matrix</Filter>
+    </ClInclude>
+    <ClInclude Include="Matrix.h">
+      <Filter>Matrix</Filter>
+    </ClInclude>
+    <ClInclude Include=".\Dependencies\alglib3_16_0\alglibinternal.h">
+      <Filter>External_lib</Filter>
+    </ClInclude>
+    <ClInclude Include=".\Dependencies\alglib3_16_0\alglibmisc.h">
+      <Filter>External_lib</Filter>
+    </ClInclude>
+    <ClInclude Include=".\Dependencies\alglib3_16_0\ap.h">
+      <Filter>External_lib</Filter>
+    </ClInclude>
+    <ClInclude Include=".\Dependencies\alglib3_16_0\dataanalysis.h">
+      <Filter>External_lib</Filter>
+    </ClInclude>
+    <ClInclude Include=".\Dependencies\alglib3_16_0\diffequations.h">
+      <Filter>External_lib</Filter>
+    </ClInclude>
+    <ClInclude Include=".\Dependencies\alglib3_16_0\fasttransforms.h">
+      <Filter>External_lib</Filter>
+    </ClInclude>
+    <ClInclude Include=".\Dependencies\alglib3_16_0\integration.h">
+      <Filter>External_lib</Filter>
+    </ClInclude>
+    <ClInclude Include=".\Dependencies\alglib3_16_0\interpolation.h">
+      <Filter>External_lib</Filter>
+    </ClInclude>
+    <ClInclude Include=".\Dependencies\alglib3_16_0\linalg.h">
+      <Filter>External_lib</Filter>
+    </ClInclude>
+    <ClInclude Include=".\Dependencies\alglib3_16_0\optimization.h">
+      <Filter>External_lib</Filter>
+    </ClInclude>
+    <ClInclude Include=".\Dependencies\alglib3_16_0\solvers.h">
+      <Filter>External_lib</Filter>
+    </ClInclude>
+    <ClInclude Include=".\Dependencies\alglib3_16_0\specialfunctions.h">
+      <Filter>External_lib</Filter>
+    </ClInclude>
+    <ClInclude Include=".\Dependencies\alglib3_16_0\statistics.h">
+      <Filter>External_lib</Filter>
+    </ClInclude>
+    <ClInclude Include=".\Dependencies\alglib3_16_0\stdafx.h">
+      <Filter>External_lib</Filter>
+    </ClInclude>
+    <ClInclude Include="hierarchical_clustering.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

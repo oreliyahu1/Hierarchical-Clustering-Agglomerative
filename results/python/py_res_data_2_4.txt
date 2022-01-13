@@ -1,0 +1,24 @@
+Loading file
+Distance size: (10000, 10000)
+Completed
+--- 0.3560483455657959 seconds ---
+Clustring
+Completed
+--- 2.34789776802063 seconds ---
+My Clustring
+Completed
+--- 10021.004316091537 seconds ---
+--------------------------------------
+
+
+Loading file
+Distance size: (10000, 10000)
+Completed
+--- 5.485866546630859 seconds ---
+Clustring
+Completed
+--- 2.3130714893341064 seconds ---
+My Clustring
+Completed
+--- 1872.20574259758 seconds ---
+--------------------------------------
